@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="MineSweeper_Level_Generator\MineSweeper_Level_Generator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MineSweeper_Level_Generator\Program.cs">
+    <Files>
+      <File FileName="MineSweeper_Level_Generator\Program.cs" Line="43" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
